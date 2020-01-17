@@ -28,7 +28,7 @@ var IonOpenBlank = /** @class */ (function (_super) {
         return _super !== null && _super.apply(this, arguments) || this;
     }
     IonOpenBlank.pluginName = "IonOpenBlank";
-    IonOpenBlank.plugin = "cordova-plugin-google-pay";
+    IonOpenBlank.plugin = "cordova-plugin-openblank";
     IonOpenBlank.pluginRef = "ionOpenBlank";
     IonOpenBlank.repo = "https://github.com/slaptoast/cordova-plugin-openblank";
     IonOpenBlank.platforms = ["Android", "iOS"];
