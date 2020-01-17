@@ -1,0 +1,28 @@
+{
+    "author": {
+      "name": "Goliath86"
+    },
+    "bugs": {
+      "url": "https://github.com/Goliath86/ionic-webview-openblank/issues"
+    },
+    "bundleDependencies": [],
+    "dependencies": {
+      "@types/cordova": "latest"
+    },
+    "deprecated": false,
+    "description": "Ionic plugin for the cordova-plugin-google-pay",
+    "homepage": "https://github.com/Goliath86/ionic-webview-openblank",
+    "license": "MIT",
+    "module": "index.js",
+    "name": "ionic-webview-openblank",
+    "peerDependencies": {
+      "@ionic-native/core": "^5.1.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Goliath86/ionic-webview-openblank.git"
+    },
+    "typings": "index.d.ts",
+    "version": "0.0.1"
+  }
+  
